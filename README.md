@@ -18,10 +18,6 @@ Bu proje, kullanıcıların farklı yemek tariflerine göz atmasını sağlayan 
 - [TheMealDB API](https://www.themealdb.com/)
 - [Bootstrap 5](https://getbootstrap.com/)
 
-## 📸 Ekran Görüntüleri
-
-*Yüklemediysen GitHub repo "issues" kısmına veya "img/" klasörüne ekran görüntüsü ekleyebilirsin.*
-
 ## 🔧 Kurulum ve Çalıştırma
 
 ```bash
@@ -34,3 +30,4 @@ npm install
 
 # Uygulamayı başlat
 npm start
+
